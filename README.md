@@ -1,6 +1,5 @@
 # CS50’s Introduction to Programming with Python – Problem Sets
 
-![CS50 Python Banner](https://cs50.harvard.edu/python/2022/images/social.png)
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![CS50](https://img.shields.io/badge/CS50-Harvard-red)](https://cs50.harvard.edu/python/2022/)
